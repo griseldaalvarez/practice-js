@@ -23,3 +23,5 @@ console.log(person.address.city); //consoles: fowler
 
 person.phoneNumber = 5301234567;
 console.log(person);//adds a phone number to the const person object literal
+
+34.14 left off
